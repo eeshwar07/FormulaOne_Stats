@@ -1,0 +1,27 @@
+.table tr,
+th,
+td {
+  border-width: 1px;
+  border-style: solid;
+  text-align: center;
+  font-size: large;
+  padding: 10px;
+}
+
+.div {
+  padding: 50px;
+}
+
+.input-text {
+  width: 60%;
+  padding: 5px;
+  margin-left: 280px;
+  margin-top: 10px;
+  align-items: center;
+}
+
+.texts {
+  font-size: xx-large;
+  text-align: center;
+  padding: 20px;
+}

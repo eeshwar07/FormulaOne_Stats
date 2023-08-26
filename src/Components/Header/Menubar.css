@@ -1,0 +1,12 @@
+.menu-bar {
+  display: flex;
+  align-items: center;
+  background-color: aqua;
+  width: 100%;
+  height: 3rem;
+}
+
+.menu-bar div {
+  width: 33%;
+  text-align: center;
+}

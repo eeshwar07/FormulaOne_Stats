@@ -1,0 +1,17 @@
+.form {
+  width: 80%;
+  padding: 5px;
+  margin-left: 85px;
+  margin-top: 10px;
+}
+
+.texts {
+  font-size: xx-large;
+  text-align: center;
+  padding: 20px;
+}
+
+.list {
+  /* display: flex; */
+  text-align: center;
+}
