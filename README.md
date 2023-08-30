@@ -4,7 +4,7 @@ Welcome to the world of Formula One racing, where speed, precision, and strategy
 
 Whether you're a die-hard fan, a curious observer, or a strategic thinker, this application is your one-stop destination for insights and analyses of Formula One races, drivers, teams and circuits.
 
-The application is hosted on [link text](main--mellifluous-profiterole-118a81.netlify.app)
+The application is hosted on [this link](https://main--mellifluous-profiterole-118a81.netlify.app/)
 
 # Steps to run this project:
 
