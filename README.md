@@ -1,4 +1,4 @@
-#Introduction:
+# Introduction:
 
 Welcome to the world of Formula One racing, where speed, precision, and strategy come together to create an electrifying sport. In this era of data-driven insights, we introduce the Formula One Statistics Application – your gateway to information about the thrilling world of Formula One racing.
 
@@ -6,8 +6,8 @@ Whether you're a die-hard fan, a curious observer, or a strategic thinker, this 
 
 # Steps to run this project:
 
-1)Install node and git for windows.
-2)Clone this project into your local machine.
-3)Open terminal from the location of the cloned folder of this project and run the command 'npm install'.
-4)After the installation is done, to run the project, run the command 'npm start'.
-5)Open localhost:3000 on any web browser to run the project.
+*1)Install node and git for windows.
+*2)Clone this project into your local machine.
+*3)Open terminal from the location of the cloned folder of this project and run the command 'npm install'.
+*4)After the installation is done, to run the project, run the command 'npm start'.
+*5)Open localhost:3000 on any web browser to run the project.
