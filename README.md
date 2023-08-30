@@ -6,8 +6,8 @@ Whether you're a die-hard fan, a curious observer, or a strategic thinker, this 
 
 # Steps to run this project:
 
-*1)Install node and git for windows.
-*2)Clone this project into your local machine.
-*3)Open terminal from the location of the cloned folder of this project and run the command 'npm install'.
-*4)After the installation is done, to run the project, run the command 'npm start'.
-*5)Open localhost:3000 on any web browser to run the project.
+* Install node and git for windows.
+* Clone this project into your local machine.
+* Open terminal from the location of the cloned folder of this project and run the command 'npm install'.
+* After the installation is done, to run the project, run the command 'npm start'.
+* Open localhost:3000 on any web browser to run the project.
