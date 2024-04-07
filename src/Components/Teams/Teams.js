@@ -46,7 +46,7 @@ export default function Teams() {
       <div className="div">
         <table className="table">
           {arr.length == 0 ? (
-            <h3>No values Found</h3>
+            <h3>No data Found</h3>
           ) : (
             <tr>
               <th>Serial Number</th>

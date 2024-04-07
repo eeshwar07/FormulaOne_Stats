@@ -58,7 +58,7 @@ export default function Circuits() {
           ) : null}
           <tbody>
             {arr.length == 0 ? (
-              <h3>No values Found</h3>
+              <h3>No data Found</h3>
             ) : (
               arr.map((data) => (
                 <tr key={data.circuitId}>
